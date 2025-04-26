@@ -23,7 +23,7 @@ Me motiva aprender nuevas tecnologías, construir soluciones elegantes y mantene
 - 📖 [SistemaLibreria](https://github.com/inkevap/SistemaLibreria)  
   Sistema CRUD para gestión de libros y usuarios, aplicando arquitectura limpia, TDD y diseño modular.
 
-- 🛠️ [Proyectos con ReactJS]([https://github.com/inkevap?tab=repositories&q=unitarias])  
+- 🛠️ [Proyectos con ReactJS](https://github.com/inkevap?tab=repositories&q=unitarias)  
   Desarrollo de pagina web usando el framework ReactJS.
 
 ---
